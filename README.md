@@ -83,8 +83,3 @@ Usando um Skate.
    ```
 
 ---
-
- de projeto em Java.
-```
-
----
