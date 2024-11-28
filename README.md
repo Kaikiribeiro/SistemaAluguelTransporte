@@ -88,15 +88,7 @@ Usando um Skate.
 
 ---
 
-## Expansões Futuras
-- Adicionar novos meios de transporte (ex.: monociclos elétricos).
-- Criar novas categorias de transporte (ex.: movidos a energia solar).
-- Melhorar a interface gráfica para facilitar o uso.
-
----
-
-## Sobre o Projeto
-Este sistema foi desenvolvido como parte das atividades práticas do curso **Técnico em Informática para Internet - 3º C**, aplicando conceitos de Programação Orientada a Objetos e padrões de projeto em Java.
+ de projeto em Java.
 ```
 
 ---
