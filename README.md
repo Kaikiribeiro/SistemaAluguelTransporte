@@ -1,8 +1,4 @@
-Aqui está a versão modificada e personalizada para você:
 
----
-
-```markdown
 # Sistema de Aluguel de Meios de Transporte Individuais
 
 ## Descrição
